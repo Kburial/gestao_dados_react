@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-<img width="1333" src="https://github.com/user-attachments/assets/739ba81b-0b0b-43bc-8127-59715d05e0cd" />
+<img width="850" src="https://github.com/user-attachments/assets/739ba81b-0b0b-43bc-8127-59715d05e0cd" />
 </div>
 
 <div align="center">

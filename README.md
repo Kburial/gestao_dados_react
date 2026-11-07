@@ -35,6 +35,7 @@
 
 <div align="center">
   <img width="850" src="https://github.com/user-attachments/assets/89027e30-9d27-428c-ad47-6ef44059d1ed" />
+  <p><em>Project's service description</em></p> 
 </div>
 
 

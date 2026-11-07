@@ -14,7 +14,7 @@
 
 <div align="center">
   <img width="850" src="https://github.com/user-attachments/assets/cdaa5157-2a57-4f67-8c23-ee36e56686ec" />
-  <p><em>Project view, budget, and services.</em></p> 
+  <p><em>Project view, budget, services.</em></p> 
 </div>
 
 <div align="center">

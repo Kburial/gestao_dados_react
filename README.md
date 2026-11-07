@@ -9,7 +9,7 @@
 
 <div align="center">
   <img width="850" src="https://github.com/user-attachments/assets/11db93fb-ac9d-4d1c-8f61-ffa9cb6b3b76" />
-  <p><em>Project categories</em></p> 
+  <p><em>Projects created by me</em></p> 
 </div>
 
 <div align="center">

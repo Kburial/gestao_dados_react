@@ -30,6 +30,7 @@
 
 <div align="center">
   <img width="850" src="https://github.com/user-attachments/assets/3e25ea17-fb67-4efe-a8e7-dff1e720d87e" />
+  <p><em>Project's edit page</em></p> 
 </div>
 
 <div align="center">
